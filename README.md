@@ -12,10 +12,11 @@
 
 &nbsp;1. **Clonar el Repositorio:**
 
-&nbsp;&nbsp;git clone https://github.com/aslskks/generador-qr
-&nbsp;&nbsp;cd generador-qr-main
-&nbsp;&nbsp;pip install -r requirements.txt
+&nbsp;&nbsp;git clone https://github.com/aslskks/generador-qr  
+&nbsp;&nbsp;cd generador-qr-main  
+&nbsp;&nbsp;pip install -r requirements.txt  
 
 &nbsp;2. **Ejecutar:**
-&nbsp;&nbsp;python archivoprincipal.py
+
+&nbsp;&nbsp;app.py
 
